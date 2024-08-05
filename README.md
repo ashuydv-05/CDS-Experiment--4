@@ -54,7 +54,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-![exp4](
+![exp4](https://github.com/ashuydv-05/CDS-Experiment--4/blob/main/Screenshot%202024-07-30%20161308.png)
 ## Conclusion:
 Bitwise operators in C++ provide powerful tools for manipulating individual bits of data. They are used in a variety of low-level programming tasks and can greatly optimize certain types of operations. Understanding and implementing these operators is crucial for efficient and effective programming in system-level applications and performance-critical code. This experiment provided an in-depth understanding of how bitwise operators work and their practical applications.
 
